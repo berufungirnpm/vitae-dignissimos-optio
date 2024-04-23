@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@berufungirnpm/vitae-dignissimos-optio",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,26 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/berufungirnpm/vitae-dignissimos-optio.git"
   },
   "dependencies": {
+    "@berufungirnpm/a-nulla-totam": "^1.0.0",
+    "@berufungirnpm/ab-fuga-facilis": "^1.0.0",
+    "@berufungirnpm/aperiam-repudiandae-commodi": "^1.0.0",
+    "@berufungirnpm/at-voluptate-iste": "^1.0.0",
+    "@berufungirnpm/consectetur-repudiandae-explicabo": "^1.0.0",
+    "@berufungirnpm/ducimus-minima-quos": "^1.0.0",
+    "@berufungirnpm/exercitationem-vel-dolorum": "^1.0.0",
+    "@berufungirnpm/harum-rerum-esse": "^1.0.0",
+    "@berufungirnpm/illum-vitae-dignissimos": "^1.0.0",
+    "@berufungirnpm/laborum-deserunt-commodi": "^1.0.0",
+    "@berufungirnpm/minus-illo-id": "^1.0.0",
+    "@berufungirnpm/natus-nihil-sed": "^1.0.0",
+    "@berufungirnpm/qui-quasi-dicta": "^1.0.0",
+    "@berufungirnpm/reprehenderit-illum-quam": "^1.0.0",
+    "@berufungirnpm/suscipit-molestias-hic": "^1.0.0",
+    "@berufungirnpm/ullam-error-tempore": "^1.0.0",
+    "@berufungirnpm/vel-impedit-nobis": "^1.0.0",
+    "@rtyughnnpm/molestiae-accusamus-minima-vitae": "^1.0.0"
   }
 }
